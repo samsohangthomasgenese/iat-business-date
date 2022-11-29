@@ -1,5 +1,5 @@
 
-## IAT Business Date Generator
+## IAT Business Date Generator.
 
 Wordpress - This Custom plugin generate the next payment date based on 'First Thursday' Logic.
 
